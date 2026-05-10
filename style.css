@@ -10,7 +10,7 @@
   --bg-light:  #f7f8fa;
   --white:     #ffffff;
   --nav-h:     64px;
-  --max-w:     900px;
+  --max-w:     960px;
 }
 
 html {
@@ -20,8 +20,8 @@ html {
 
 body {
   font-family: 'Inter', system-ui, sans-serif;
-  font-size: 16px;
-  line-height: 1.7;
+  font-size: 17px;
+  line-height: 1.75;
   color: var(--text);
   background: var(--white);
   -webkit-font-smoothing: antialiased;
