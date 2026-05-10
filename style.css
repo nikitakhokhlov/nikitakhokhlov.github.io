@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  font-family: 'Inter', system-ui, sans-serif;
+  font-family: 'Atkinson Hyperlegible', system-ui, sans-serif;
   font-size: 17px;
   line-height: 1.75;
   color: var(--text);
@@ -78,7 +78,7 @@ em { font-style: italic; }
 }
 
 .nav-name {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Atkinson Hyperlegible', system-ui, sans-serif;
   font-weight: 500;
   font-size: 1.05rem;
   color: var(--text);
@@ -159,7 +159,7 @@ em { font-style: italic; }
 }
 
 .hero-text h1 {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Atkinson Hyperlegible', system-ui, sans-serif;
   font-size: 2.25rem;
   font-weight: 500;
   line-height: 1.2;
@@ -215,6 +215,12 @@ em { font-style: italic; }
   background: rgba(29, 78, 137, 0.06);
   text-decoration: none;
 }
+.icon-link-cv span {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
 .icon-link .ai {
   font-size: 1.1rem;
   line-height: 1;
@@ -242,7 +248,7 @@ em { font-style: italic; }
 
 /* === Section titles === */
 .section-title {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Atkinson Hyperlegible', system-ui, sans-serif;
   font-size: 1.6rem;
   font-weight: 500;
   color: var(--text);
@@ -253,7 +259,7 @@ em { font-style: italic; }
 }
 
 .subsection-title {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Atkinson Hyperlegible', system-ui, sans-serif;
   font-size: 1.2rem;
   font-weight: 500;
   color: var(--text);
